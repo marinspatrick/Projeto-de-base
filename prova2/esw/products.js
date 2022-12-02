@@ -33,3 +33,4 @@ function listar() {
 
 
 //aqui tem um codigo e so você imaginar ele //sucesso
+//listar_por_valor(valor_minimo, valor_maximo); onde valor_minimo e valor_maximo
